@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sarkar
+- 👋 Hi, I’m @theSarkar
 - 👀 I’m interested in ...hacking 
 - 🌱 I’m currently learning ...hacking 
 - 💞️ I’m looking to collaborate on ...hacking 
